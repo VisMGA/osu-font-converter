@@ -16,7 +16,7 @@ When you are ready, make sure the modes you want to export are selected (the def
 ## Questions nobody has asked
 
 ### Why doesn't it create the SD files?
-People often want to re-color or add edge glow or other effects to their numbers. If you are creating a skin, it will be more efficient to do these things once to the HD files and then scale them down.
+People often want to re-color or add edge glow or other effects to their numbers. If you are creating a skin, it will be more efficient to do these things once to the HD files and then scale them down. If you only want the sd files, just make the size smaller before exporting and rename the files.
 
 ### Why Processing?
 I'm familiar with it from other image manipulation projects.
