@@ -85,8 +85,12 @@ void exportPNGs() {
     PGraphics g = makeCharImg(cs,true);
     if(cs.c == 'x' && Settings.buttonTable.get("combo").active()){
       g.save("export/combo-"+cs.c+"@2x.png");
-    } else if((cs.c == ',' || cs.c == '.' || cs.c == '%')&& Settings.buttonTable.get("score").active()){
-      g.save("export/score-"+cs.c+"@2x.png");
+    } else if(cs.c == ','&& Settings.buttonTable.get("score").active()){
+      g.save("export/score-comma@2x.png");
+    } else if(cs.c == '.' && Settings.buttonTable.get("score").active()){ 
+      g.save("export/score-dot@2x.png");
+    } else if (cs.c == '%' && Settings.buttonTable.get("score").active()){
+      g.save("export/score-percent@2x.png");
     } else if (!(cs.c == ',' || cs.c == '.' || cs.c == '%' || cs.c == 'x')) {
       if(Settings.buttonTable.get("combo").active()) g.save("export/combo-"+cs.c+"@2x.png");
       if(Settings.buttonTable.get("default").active()) g.save("export/default-"+cs.c+"@2x.png");
