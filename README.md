@@ -20,7 +20,7 @@ When you are ready, make sure the modes you want to export are selected (the def
 People often want to re-color or add edge glow or other effects to their numbers. If you are creating a skin, it will be more efficient to do these things once to the HD files and then scale them down. If you only want the sd files, just make the size smaller before exporting and rename the files.
 
 ### Why Processing?
-I'm familiar with it from other image manipulation projects.
+It's extremely easy to make quick image manipulation programs in Processing, and I'm familiar with it from other projects.
 
 ### Do you plan to continue this project?
 If it sounds useful to people and I can figure it out, I'd like to re-write this in p5.js as an app on a github page so people don't have to download anything to use it. I probably won't continue work on this downloaded version unless people really want it.
