@@ -22,7 +22,7 @@ People often want to re-color or add edge glow or other effects to their numbers
 I'm familiar with it from other image manipulation projects.
 
 ### Do you plan to continue this project?
-If it sounds useful to people and I can figure it out, I'd like to re-write this in p5.js as an app on a github page so people don't have to download anything to use it. This version probably won't be continued.
+If it sounds useful to people and I can figure it out, I'd like to re-write this in p5.js as an app on a github page so people don't have to download anything to use it. I probably won't continue work on this downloaded version unless people really want it.
 
 ### Gee your code is messy
 Yeah I didn't expect to release this until I was already almost done. Works though.
