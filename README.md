@@ -1,4 +1,5 @@
 # osu! Font Converter
+Created for the game osu! to make skinning numbers a bit easier.
 Creates transparent .png files for combo, default, and score numbers and characters provided a ttf or otf font.
 
 ## How to use?
