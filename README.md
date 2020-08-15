@@ -5,7 +5,8 @@ Creates transparent .png files for combo, default, and score numbers and charact
 ## How to use?
 Find a ttf or otf font you like. [Google Fonts](https://fonts.google.com/) has a wide variety of free fonts available to download.
 
-Download and extract the [.zip from releases](https://github.com/VisMajorSpeedruns/osu-font-converter/releases/) and run the exe. (or download the source and install [Processing](https://processing.org/), then open one of the .pde files and run it from the processing IDE)
+Download and extract the [.zip from releases](https://github.com/VisMajorSpeedruns/osu-font-converter/releases/) and run the exe. 
+If you don't want to use the exe, download the source files and install [Processing](https://processing.org/), then open one of the .pde files and run it from the processing IDE.
 
 You will be prompted to select a ttf or otf font file. You can then select one of the modes at the bottom (selected modes are highlighted red) and adjust the settings of the font with the wasd or arrow keys.
 
